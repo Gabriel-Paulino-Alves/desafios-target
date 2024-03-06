@@ -1,0 +1,15 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+
+
+a) 1, 3, 5, 7, ___ -> aqui a lógica é uma sequencia de um numero x+2, proximo numero será 9
+
+b) 2, 4, 8, 16, 32, 64, ____ -> aqui a lógica é cada numero é o dobro do anterior, o proximo numero será 128
+
+c) 0, 1, 4, 9, 16, 25, 36, ____ -> aqui a lógica são os quadrados dos numeros naturais, o proximo seria o quadrado do numero 7 = 49
+
+d) 4, 16, 36, 64, ____ -> aqui são os quadrados dos numeros pares, proximo seria quadrado de 10 = 100
+
+e) 1, 1, 2, 3, 5, 8, ____ -> aqui temos a famosa sequencia de fibonacci que segue a lógica que o próximo valor sempre será a soma dos 2 valores anteriores, o proximo numero será 13
+
+f) 2,10, 12, 16, 17, 18, 19, ____ -> aqui parece ser uma logica de numero que começam com a letra D, então seguindo a lógica o proximo numero seria 200
